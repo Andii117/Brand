@@ -4,4 +4,4 @@ var b = 2;
 var nombre = "Harold";
 var apellido = "Jara";
 
-alert(nombre+" "+apellido);
+//alert(nombre+" "+apellido);
